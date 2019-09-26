@@ -5,6 +5,9 @@
   "main": "./src/index.js",
   "author": "Lance Stout <lance@andyet.net>",
   "license": "MIT",
+  "files": [
+    "**/*.js"
+  ],
   "dependencies": {
     "jxt": "^3.0.1",
     "xmpp-constants": "^2.0.0",
